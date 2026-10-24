@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+jupyter
+matplotlib
+supabase>=2.3.0
